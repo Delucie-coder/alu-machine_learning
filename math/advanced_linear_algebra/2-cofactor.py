@@ -56,3 +56,4 @@ def cofactor(matrix):
         cofactor_matrix.append(row_res)
 
     return cofactor_matrix
+

@@ -64,3 +64,4 @@ def adjugate(matrix):
         adjugate_matrix.append(new_row)
 
     return adjugate_matrix
+
